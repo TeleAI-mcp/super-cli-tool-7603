@@ -1,2 +1,3 @@
-# super-cli-tool-7603
+# Super Cli Tool 7603
+
 A repository to test GitHub automation for issue management.
